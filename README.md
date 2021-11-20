@@ -13,7 +13,7 @@ $ git clone https://github.com/hangocmy/progressive-web-app
 #### `Step 2` - cd in the repo
 
 ```bash
-$ cd demo-progressive-web-app
+$ cd progressive-web-app
 ```
 
 #### `Step 3` - install dependencies
@@ -50,13 +50,6 @@ In browser, open [http://localhost:9999](http://localhost:9999)
 
 - [x] - Web Share API
 
-### Get started with PWA Development
-
-- [Codelabs](https://pwa.tips/codelabs)
-
-### List of Progressive Web Apps
-
-- [PWA Rocks](https://pwa.rocks)
 
 ### References
 
